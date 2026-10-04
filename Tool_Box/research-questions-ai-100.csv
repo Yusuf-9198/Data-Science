@@ -1,0 +1,101 @@
+Index,Research ID,Entity Name,Domain,Research Question,Source URL
+1,sg46cBBkkl,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+2,KAeOZmHiSm,Datadog,datadoghq.com,Identify the main product categories described on the official website.,https://www.datadoghq.com/
+3,AueU08Iu9F,HubSpot,hubspot.com,Find whether this company has a public pricing page and return the URL.,https://www.hubspot.com/pricing
+4,GCGYjO1a0I,Atlassian,atlassian.com,Find one signal that the company sells to businesses.,https://www.atlassian.com/
+5,T6umH8XWGV,Cloudflare,cloudflare.com,Find one signal that the company sells to businesses.,https://www.cloudflare.com/
+6,E8nMpBEyuf,Stripe,stripe.com,Find whether this company has a public pricing page and return the URL.,https://stripe.com/pricing
+7,Cc6R5u4Qpy,OpenAI,openai.com,Identify the main product categories described on the official website.,https://openai.com/
+8,y9Ug0ZA1OD,Twilio,twilio.com,Find whether this company has a public pricing page and return the URL.,https://www.twilio.com/en-us/pricing
+9,1gJW1zii8r,OpenAI,openai.com,Summarize the company in one sentence using the official website.,https://openai.com/
+10,4abtqjj4Q2,Shopify,shopify.com,Identify the main product categories described on the official website.,https://www.shopify.com/
+11,pVyBwzrRM6,Shopify,shopify.com,Summarize the company in one sentence using the official website.,https://www.shopify.com/
+12,dM0U86qk52,Twilio,twilio.com,Find the official careers page and summarize what teams it hires for.,https://www.twilio.com/en-us/company/jobs
+13,ls9U70HYz9,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+14,Ri4ETTBTr4,Salesforce,salesforce.com,Find whether this company has a public pricing page and return the URL.,https://www.salesforce.com/products/sales-cloud/pricing/
+15,Z7AXIT3iVb,Shopify,shopify.com,Find whether this company has a public pricing page and return the URL.,https://www.shopify.com/pricing
+16,DgOrapqT6T,Notion,notion.so,Find whether this company has a public pricing page and return the URL.,https://www.notion.so/pricing
+17,KOlgXAYHwX,OpenAI,openai.com,Find one signal that the company sells to businesses.,https://openai.com/
+18,GbC3gJrTby,Twilio,twilio.com,Summarize the company in one sentence using the official website.,https://www.twilio.com/
+19,Fkkvs0ogOK,Stripe,stripe.com,Find the official careers page and summarize what teams it hires for.,https://stripe.com/jobs
+20,lIMOS9kTKc,Datadog,datadoghq.com,Identify the main product categories described on the official website.,https://www.datadoghq.com/
+21,ngzb16gAPR,Atlassian,atlassian.com,Find whether this company has a public pricing page and return the URL.,https://www.atlassian.com/software/jira/pricing
+22,K4h67K87xw,HubSpot,hubspot.com,Find one signal that the company sells to businesses.,https://www.hubspot.com/
+23,DKM0QKTjFA,Salesforce,salesforce.com,Find one signal that the company sells to businesses.,https://www.salesforce.com/
+24,vONoOmKbrY,Shopify,shopify.com,Find whether this company has a public pricing page and return the URL.,https://www.shopify.com/pricing
+25,wA6KAsl9zY,Shopify,shopify.com,Find one signal that the company sells to businesses.,https://www.shopify.com/
+26,jylnyuPJ1T,Twilio,twilio.com,Find whether this company has a public pricing page and return the URL.,https://www.twilio.com/en-us/pricing
+27,JoNY6Yj0Ka,Atlassian,atlassian.com,Summarize the company in one sentence using the official website.,https://www.atlassian.com/
+28,mIOpvTxhNv,Shopify,shopify.com,Find whether this company has a public pricing page and return the URL.,https://www.shopify.com/pricing
+29,igJ3OESh7Q,Atlassian,atlassian.com,Find one signal that the company sells to businesses.,https://www.atlassian.com/
+30,t21mpTC1bl,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+31,ikg3xuWrKH,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+32,k3x98yYAzU,Salesforce,salesforce.com,Summarize the company in one sentence using the official website.,https://www.salesforce.com/
+33,7sOmkPpfPe,Stripe,stripe.com,Find one signal that the company sells to businesses.,https://stripe.com/
+34,usmlsZpGJI,OpenAI,openai.com,Summarize the company in one sentence using the official website.,https://openai.com/
+35,lpctcJ2I4z,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+36,CFd1708Y4J,Shopify,shopify.com,Find the official careers page and summarize what teams it hires for.,https://www.shopify.com/careers
+37,KtZsz3pJyv,Datadog,datadoghq.com,Identify the main product categories described on the official website.,https://www.datadoghq.com/
+38,uY4tFCaPja,Notion,notion.so,Identify the main product categories described on the official website.,https://www.notion.so/
+39,34kixPSuw9,OpenAI,openai.com,Summarize the company in one sentence using the official website.,https://openai.com/
+40,Ou3E9dhnrt,Shopify,shopify.com,Find one signal that the company sells to businesses.,https://www.shopify.com/
+41,l84rIt7wLw,OpenAI,openai.com,Find the official careers page and summarize what teams it hires for.,https://openai.com/careers/
+42,SyBsT6PiUY,Stripe,stripe.com,Identify the main product categories described on the official website.,https://stripe.com/
+43,rS7Jq3ikfR,Stripe,stripe.com,Identify the main product categories described on the official website.,https://stripe.com/
+44,xe2wY52i1X,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+45,HeACzFFp7W,OpenAI,openai.com,Identify the main product categories described on the official website.,https://openai.com/
+46,iDHssOW1wR,HubSpot,hubspot.com,Summarize the company in one sentence using the official website.,https://www.hubspot.com/
+47,Ep2fMPU1He,Datadog,datadoghq.com,Identify the main product categories described on the official website.,https://www.datadoghq.com/
+48,MiwitQUGvR,Salesforce,salesforce.com,Find one signal that the company sells to businesses.,https://www.salesforce.com/
+49,xhGNLp0yxL,Atlassian,atlassian.com,Identify the main product categories described on the official website.,https://www.atlassian.com/
+50,2Tpd3t9FY8,Stripe,stripe.com,Find the official careers page and summarize what teams it hires for.,https://stripe.com/jobs
+51,gmhpPWDGSn,HubSpot,hubspot.com,Identify the main product categories described on the official website.,https://www.hubspot.com/
+52,nWCMTOtyFc,Datadog,datadoghq.com,Find the official careers page and summarize what teams it hires for.,https://www.datadoghq.com/careers/
+53,uC8uGXlOFN,Cloudflare,cloudflare.com,Identify the main product categories described on the official website.,https://www.cloudflare.com/
+54,OXH3Dtd0Ju,Salesforce,salesforce.com,Summarize the company in one sentence using the official website.,https://www.salesforce.com/
+55,3UVzrlFyMZ,Shopify,shopify.com,Find the official careers page and summarize what teams it hires for.,https://www.shopify.com/careers
+56,MIxF60KOuE,Shopify,shopify.com,Find whether this company has a public pricing page and return the URL.,https://www.shopify.com/pricing
+57,iCKcgdRSYG,Twilio,twilio.com,Find whether this company has a public pricing page and return the URL.,https://www.twilio.com/en-us/pricing
+58,Z6GhjIe8FF,Twilio,twilio.com,Identify the main product categories described on the official website.,https://www.twilio.com/
+59,zmBheseznq,Stripe,stripe.com,Summarize the company in one sentence using the official website.,https://stripe.com/
+60,3H25aXhvXy,Atlassian,atlassian.com,Summarize the company in one sentence using the official website.,https://www.atlassian.com/
+61,O70wNljRp0,OpenAI,openai.com,Summarize the company in one sentence using the official website.,https://openai.com/
+62,HmaGA8a7ZU,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+63,ai73F46ILk,Notion,notion.so,Find whether this company has a public pricing page and return the URL.,https://www.notion.so/pricing
+64,iJeQWuIpSa,Notion,notion.so,Find whether this company has a public pricing page and return the URL.,https://www.notion.so/pricing
+65,6d91OJAPJH,Stripe,stripe.com,Find one signal that the company sells to businesses.,https://stripe.com/
+66,qIFL5937gA,Cloudflare,cloudflare.com,Find one signal that the company sells to businesses.,https://www.cloudflare.com/
+67,uh1vQN0EM9,Salesforce,salesforce.com,Identify the main product categories described on the official website.,https://www.salesforce.com/
+68,6O7HeZATnR,HubSpot,hubspot.com,Find the official careers page and summarize what teams it hires for.,https://www.hubspot.com/careers
+69,KKrhxuYbWl,OpenAI,openai.com,Summarize the company in one sentence using the official website.,https://openai.com/
+70,DAqcJlTfSl,Stripe,stripe.com,Find one signal that the company sells to businesses.,https://stripe.com/
+71,mu98nlyN6V,Datadog,datadoghq.com,Find the official careers page and summarize what teams it hires for.,https://www.datadoghq.com/careers/
+72,19DUj4iQe4,Stripe,stripe.com,Identify the main product categories described on the official website.,https://stripe.com/
+73,QzQrrVq6S9,Cloudflare,cloudflare.com,Find one signal that the company sells to businesses.,https://www.cloudflare.com/
+74,Le836Ukaxk,Notion,notion.so,Find one signal that the company sells to businesses.,https://www.notion.so/
+75,N8Mh8xYemG,Atlassian,atlassian.com,Find one signal that the company sells to businesses.,https://www.atlassian.com/
+76,HzWT4weMWo,OpenAI,openai.com,Identify the main product categories described on the official website.,https://openai.com/
+77,MXUM4fQDke,Twilio,twilio.com,Find one signal that the company sells to businesses.,https://www.twilio.com/
+78,nCvG9rNc6n,Stripe,stripe.com,Find one signal that the company sells to businesses.,https://stripe.com/
+79,VPng6xdUJ8,Salesforce,salesforce.com,Identify the main product categories described on the official website.,https://www.salesforce.com/
+80,UvWrJnfg5z,Twilio,twilio.com,Find the official careers page and summarize what teams it hires for.,https://www.twilio.com/en-us/company/jobs
+81,Xkd7yu99RW,Notion,notion.so,Summarize the company in one sentence using the official website.,https://www.notion.so/
+82,6vu87rAQg6,OpenAI,openai.com,Find one signal that the company sells to businesses.,https://openai.com/
+83,dwMAQ42nTZ,Stripe,stripe.com,Find the official careers page and summarize what teams it hires for.,https://stripe.com/jobs
+84,ZuhT4XzB0n,OpenAI,openai.com,Find the official careers page and summarize what teams it hires for.,https://openai.com/careers/
+85,2WKibVE9WW,Salesforce,salesforce.com,Find whether this company has a public pricing page and return the URL.,https://www.salesforce.com/products/sales-cloud/pricing/
+86,sBsKJEPioC,Twilio,twilio.com,Identify the main product categories described on the official website.,https://www.twilio.com/
+87,LwXMPf54l1,Notion,notion.so,Summarize the company in one sentence using the official website.,https://www.notion.so/
+88,FZm2bDAznp,OpenAI,openai.com,Find whether this company has a public pricing page and return the URL.,https://openai.com/api/pricing/
+89,QouTdMXGwt,Salesforce,salesforce.com,Find the official careers page and summarize what teams it hires for.,https://www.salesforce.com/company/careers/
+90,RVNiD9VBaq,Shopify,shopify.com,Identify the main product categories described on the official website.,https://www.shopify.com/
+91,ZMzVG4Qp0o,Notion,notion.so,Find the official careers page and summarize what teams it hires for.,https://www.notion.so/careers
+92,IqTzGFO4SE,HubSpot,hubspot.com,Find whether this company has a public pricing page and return the URL.,https://www.hubspot.com/pricing
+93,jyviOfpkQj,Twilio,twilio.com,Find whether this company has a public pricing page and return the URL.,https://www.twilio.com/en-us/pricing
+94,yUIKXO2eua,Shopify,shopify.com,Find one signal that the company sells to businesses.,https://www.shopify.com/
+95,MZgl6N6n03,Datadog,datadoghq.com,Identify the main product categories described on the official website.,https://www.datadoghq.com/
+96,W84wgLaMVC,Salesforce,salesforce.com,Summarize the company in one sentence using the official website.,https://www.salesforce.com/
+97,R6YAhC5uGw,OpenAI,openai.com,Find whether this company has a public pricing page and return the URL.,https://openai.com/api/pricing/
+98,PaXh6s39xG,Shopify,shopify.com,Summarize the company in one sentence using the official website.,https://www.shopify.com/
+99,NADVxPe6lY,Notion,notion.so,Find the official careers page and summarize what teams it hires for.,https://www.notion.so/careers
+100,eEo44uq89r,Notion,notion.so,Find whether this company has a public pricing page and return the URL.,https://www.notion.so/pricing
